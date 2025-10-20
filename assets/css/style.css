@@ -11,3 +11,24 @@
 a{
     color:black;
 }
+.topline{
+    margin:5px 20px;
+    width:100%;
+    display: flex;
+}
+.upper-menu{
+    background-color: gray;
+}
+.leftcorner{
+    justify-content: start;
+}
+.rightcorner{
+    justify-content: end;
+}
+.main-on-top{
+    display:flex;
+}
+.elements{
+    flex-direction: row;
+    align-content: end;
+}
